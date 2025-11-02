@@ -8,6 +8,13 @@
 [![Website](https://img.shields.io/badge/Website-OMNDOX-blue?logo=google-chrome)](https://omndox.run/)
 [![Twitter](https://img.shields.io/badge/Twitter-OMNDOX-blue?logo=twitter)](https://x.com/OMNDOXLAB)
 
+```
+  __  __ __ __  _ __   ____   __ 
+ /__\|  V  |  \| | _\ /__\ \_/ / 
+| \/ | \_/ | | ' | v | \/ > , <  
+ \__/|_| |_|_|\__|__/ \__/_/ \_\
+```
+
 
 OMNDOX transforms Pumpfun into a multidimensional map of behavior, emotion, and flow.
 
