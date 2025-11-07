@@ -7,6 +7,12 @@ use solana_sdk::{
     transaction::Transaction,
     transport::TransportError,
 };
+
+A unique cross-chain intent is generated on Solana, containing:
+  - source_chain
+  - destination_chain
+  - asset type / amount
+  - route hints / parameters
 use std::str::FromStr;
 use ontora_ai_program::processor::process_instruction;
 use ontora_ai_program::state::AiAgentState;
