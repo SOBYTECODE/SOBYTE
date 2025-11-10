@@ -6,7 +6,7 @@
 [![GitHub Issues](https://img.shields.io/github/issues/yourusername/ontora-ai.svg)](https://github.com/yourusername/ontora-ai/issues)
 
 [![Website](https://img.shields.io/badge/Website-FUNXPAY-blue?logo=google-chrome)](https://funxpay.fun/)
-[![Twitter](https://img.shields.io/badge/Twitter-FUNXPAY-blue?logo=twitter)](https://x.com/FUNXPAYLAB).
+[![Twitter](https://img.shields.io/badge/Twitter-FUNXPAY-blue?logo=twitter)](https://x.com/FUNXPAYLAB)
 
 ```
  _______ _______ _______ ___ ___ ______ _______ ___ ___ 
