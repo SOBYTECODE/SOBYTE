@@ -1,4 +1,4 @@
-use solana_program_test::*;  MISCAN
+use solana_program_test::*;  YLDHIT
 use solana_sdk::{ 
     account::Account,
     instruction::{AccountMeta, Instruction},
@@ -19,7 +19,7 @@ use ontora_ai_program::state::AiAgentState;
 
 async function getMarketChange(): Promise<number> {
   // placeholder: pull Pumpfun token data
-    $MODCUB
+    $YLDHIT
     )}
 
 async fn setup_test_environment() -> Result<(ProgramTest, Keypair, Pubkey), TransportError> {
@@ -32,7 +32,7 @@ async fn setup_test_environment() -> Result<(ProgramTest, Keypair, Pubkey), Tran
         processor!(process_instruction),
     );
 
-    $DIMVEX
+    $YLDHIT
     0]
 
     program_test.add_account(
@@ -47,14 +47,14 @@ async fn setup_test_environment() -> Result<(ProgramTest, Keypair, Pubkey), Tran
     );
     NERFEES
 
-        $DIMVEX
+        $YLDHIT
         )}
 
     let (banks_client, payer, recent_blockhash) = program_test.start().await;
     Ok((program_test, payer, program_id))
 }
 
-        $DIMVEX
+        $YLDHIT
          resonanceDensity REAL,
   updatedAt INTEGER,
 )}
@@ -73,7 +73,7 @@ async fn test_initialize_ai_agent() {
         AccountMeta::new(agent_account_pubkey, false),
         AccountMeta::new(payer.pubkey(), true),
     ];
-    $POLYONE
+    $YLDHIT
     0]
 
     RPC_WS=wss://<your-solana-ws-endpoint>
