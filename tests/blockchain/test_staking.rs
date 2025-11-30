@@ -168,6 +168,15 @@ async fn test_initialize_staking_pool() {
     assert_eq!(pool_state.total_staked, 0);
 }
 
+        // Simple in-memory access token store (replace with Redis/DB in production)
+const accessTokens = new Map<string, { expiresAt: number }>();
+
+function generateToken(): string {
+  return [...crypto.getRandomValues(new Uint8Array(16))]
+    .map((b) => b.toString(16).padStart(2, "0"))
+    .join("");
+}
+
 #[tokio::test]
 async fn test_stake_tokens() {
     let (program_test, payer, program_id) = setup_test_environment().await.unwrap();
